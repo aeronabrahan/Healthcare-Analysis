@@ -15,15 +15,16 @@ A comprehensive Power BI dashboard analyzing over 55,000 patient records from 10
 1. Project Overview
 2. Problem Statement
 3. Objective
-4. Dashboard Design
+4. Key Questions
+5. Dashboard Design
    - Overview
    - Conditions & Treatment Analysis
    - Insurance and Regional Healthcare Trends
-5. Tools Used
-6. Analysis & Insights
+6. Tools Used
+7. Analysis & Insights
    - Key Takeaways
    - Next Steps
-7. Connect with Me
+8. Connect with Me
 
 ---
 
@@ -39,6 +40,30 @@ This dashboard was built to:
 3. Compare hospital and insurer performance
 4. Discover admission and treatment patterns across the U.S.
 5. Provide data-driven insights to healthcare stakeholders
+
+---
+
+## Key Questions
+
+This healthcare dashboard was designed to answer the following questions:
+
+1. What are the most common age groups, genders, and blood types among patients? Are certain groups being admitted more often than others?
+
+2. Which medical conditions are diagnosed the most, and do they affect certain groups of people more than others?
+
+3. How long do patients typically stay in the hospital for different conditions? Does this vary depending on the hospital or type of admission (emergency, urgent, or planned)?
+
+4. How much does treatment usually cost for each condition? Are there big differences in costs between hospitals or insurance providers?
+
+5. Which hospitals are treating the most patients, and how do they compare in terms of patient outcomes, like test results?
+
+6. What medications are most often prescribed for each condition? Are they being used consistently across hospitals?
+
+7. How are patients admitted – mostly through emergency, urgent, or planned admissions – and how does that impact the length of stay or treatment costs?
+
+8. Which insurance companies are covering the most patients, and how does that relate to treatment costs and patient outcomes?
+
+9. Where are the hospitals located, and are there any regional differences in health conditions, treatment quality, or billing amounts?
 
 ---
 
